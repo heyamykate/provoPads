@@ -1,0 +1,44 @@
+<!doctype html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="styles/main.css">
+  </head>
+  <body ng-app="angularPadsApp">
+    <div ui-view>
+    <div class="container">
+      <div class="header">
+        <ul class="nav nav-pills pull-right">
+          <li class="active"><a ng-href="#">Home</a></li>
+          <li><a ng-href="#">About</a></li>
+          <li><a ng-href="#">Contact</a></li>
+        </ul>
+        <h1 class="text-muted title">Provo Pads</h1>
+      </div>
+      <hr />
+
+      <div ng-include="'views/main.html'" ng-controller="MainCtrl"></div>
+
+      <div class="footer">
+        <p>Created with <span class="glyphicon glyphicon-heart"></span> by Amy-Kate</p>
+      </div>
+    </div>
+  </div>
+
+
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="bower_components/json3/lib/json3.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+
+        <script src="scripts/app.js"></script>
+        <script src="scripts/controllers/main.js"></script>
+
+</body>
+</html>

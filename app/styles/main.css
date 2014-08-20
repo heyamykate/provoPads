@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
+
+div.footer > p {
+  font-family: 'Lobster Two', cursive;
+  color: #fff;
+}
+div.main {
+  text-align: center;
+}
+
+a.btn-default {
+  font-family: 'Raleway', sans-serif;
+}
+
+a.btn-default:hover {
+  background-color: #FFCC00;
+  color: #fff;
+}
+h1.main {
+  font-family: 'Lobster Two', cursive;
+  color: #FFCC00;
+}
+
+.nav-pills > li.active > a {
+  background-color: #FFCC00;
+}
+
+.nav-pills > li > a {
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1.title {
+  font-family: 'Lobster Two', cursive;
+  color: #fff;
+}
+
+html {
+  background-color: #C0C0C0;
+}
+
+body {
+  background-color: #C0C0C0;
+}
