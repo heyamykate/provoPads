@@ -11,6 +11,14 @@ angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
       url: '/main',
       templateUrl: 'views/main.html'
     })
+    .state('about', {
+      url: '/about',
+      templateUrl: 'views/about.html'
+    })
+    .state('contact', {
+      url: '/contact',
+      templateUrl: 'views/contact.html'
+    })
     .state('first', {
       url: '/first',
       templateUrl: 'views/first.html'
@@ -18,6 +26,18 @@ angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
     .state('second', {
       url: '/second',
       templateUrl: 'views/second.html'
+    })
+    .state('third', {
+      url: '/third',
+      templateUrl: 'views/third.html'
+    })
+    .state('fourth', {
+      url: '/fourth',
+      templateUrl: 'views/fourth.html'
+    })
+    .state('fifth', {
+      url: '/fifth',
+      templateUrl: 'views/fifth.html'
     });
 
 });

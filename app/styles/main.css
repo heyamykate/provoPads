@@ -1,5 +1,67 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
 
+.about > h2 {
+  font-family: 'Lobster Two', cursive;
+  color: #fff;
+}
+
+div.jumbotron.about {
+  text-align: center;
+  background-color: #FFCC00;
+}
+
+div.about {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  background-color: #fff;
+  border-radius: 6px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+label {
+  font-family: 'Lobster Two', cursive;
+  color: #fff;
+  font-size: 18px;
+}
+input {
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+textarea {
+  font-family: 'Raleway', sans-serif;
+}
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;
+}
+
+:-ms-input-placeholder {
+   text-align: center;
+}
+
+#pricerange {
+  margin: 15px;
+}
+
+.fa {
+  color: #fff;
+}
+
 div.footer > p {
   font-family: 'Lobster Two', cursive;
   color: #fff;
@@ -8,12 +70,14 @@ div.main {
   text-align: center;
 }
 
-a.btn-default {
+.btn-default {
   font-family: 'Raleway', sans-serif;
+  background-color: #FFCC00;
+  color: #fff;
 }
 
-a.btn-default:hover {
-  background-color: #FFCC00;
+.btn-default:hover {
+  background-color: #666666;
   color: #fff;
 }
 h1.main {
@@ -22,6 +86,10 @@ h1.main {
 }
 
 .nav-pills > li.active > a {
+  background-color: #FFCC00;
+}
+
+.nav-pills > li.active > a:hover {
   background-color: #FFCC00;
 }
 
@@ -40,5 +108,11 @@ html {
 }
 
 body {
+  background-color: #C0C0C0;  
+}
+
+div.container {
   background-color: #C0C0C0;
+  padding-bottom: 80px;
+  border-radius: 8px;
 }
