@@ -42,6 +42,14 @@ angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
     .state('fifth', {
       url: '/fifth',
       templateUrl: 'views/fifth.html'
+    })
+    .state('final', {
+      url: '/final',
+      templateUrl: 'views/final.html'
+    })
+    .state('results', {
+      url: '/results',
+      templateUrl: 'views/results.html'
     });
 
 });
