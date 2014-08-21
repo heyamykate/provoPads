@@ -10,28 +10,26 @@
     <link rel="stylesheet" href="styles/main.css">
   </head>
   <body ng-app="angularPadsApp">
-    <div ui-view>
-    <div class="container">
-      <div class="header">
-        <ul class="nav nav-pills pull-right">
-          <li class="active"><a ng-href="#">Home</a></li>
-          <li><a ng-href="#">About</a></li>
-          <li><a ng-href="#">Contact</a></li>
-        </ul>
-        <h1 class="text-muted title">Provo Pads</h1>
-      </div>
-      <hr />
+      <div class="container">
+        <div class="header">
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a ui-sref="main">Home</a></li>
+            <li><a ui-sref="about">About</a></li>
+            <li><a ui-sref="contact">Contact</a></li>
+          </ul>
+          <h1 class="text-muted title">Provo Pads</h1>
+        </div>
+        <hr />
 
-      <div ng-include="'views/main.html'" ng-controller="MainCtrl"></div>
+      <div ui-view></div>
 
-      <div class="footer">
-        <p>Created with <span class="glyphicon glyphicon-heart"></span> by Amy-Kate</p>
-        <i class="fa fa-instagram fa-2x"></i>
-        <i class="fa fa-facebook-square fa-2x"></i>
-        <i class="fa fa-twitter fa-2x"></i>
-      </div>
-    </div>
+  <div class="footer">
+    <p>Created with <span class="glyphicon glyphicon-heart"></span> by Amy-Kate</p>
+    <i class="fa fa-instagram fa-lg"></i>
+    <i class="fa fa-facebook-square fa-lg"></i>
+    <i class="fa fa-twitter fa-lg"></i>
   </div>
+</div>
 
 
     <script src="bower_components/jquery/dist/jquery.js"></script>

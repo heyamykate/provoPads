@@ -14,8 +14,11 @@ div.about {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  background-color: #fff;
+  background-color: #CCCCCC;
   border-radius: 6px;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .col-centered{
@@ -108,7 +111,7 @@ html {
 }
 
 body {
-  background-color: #C0C0C0;  
+  background-color: #C0C0C0;
 }
 
 div.container {
