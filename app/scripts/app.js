@@ -23,6 +23,10 @@ angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
       url: '/first',
       templateUrl: 'views/first.html'
     })
+    .state('gender', {
+      url: '/gender',
+      templateUrl: 'views/gender.html'
+    })
     .state('second', {
       url: '/second',
       templateUrl: 'views/second.html'
