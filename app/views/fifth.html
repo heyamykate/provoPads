@@ -2,7 +2,7 @@
 
   <div class="jumbotron center-block main prices">
     <h1 class="main">Do you need a pool and/or hottub?</h1>
-    <p><a class="btn btn-default btn-lg" role="button" value="noPool" ui-sref="final">Nope</a></p>
-    <p><a class="btn btn-default btn-lg" role="button" value="pool" ui-sref="final">Yes. Sun's out, guns out.</a></p>
+    <p><a class="btn btn-default btn-lg" role="button" value="noPool" ui-sref="final" ng-click="saveAnswer('pool', false)">Nope</a></p>
+    <p><a class="btn btn-default btn-lg" role="button" value="pool" ui-sref="final" ng-click="saveAnswer('pool', true)">Yes. Sun's out, guns out.</a></p>
 
   </div>

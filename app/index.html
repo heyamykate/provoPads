@@ -13,9 +13,9 @@
       <div class="container">
         <div class="header">
           <ul class="nav nav-pills pull-right">
-            <li class="active"><a ui-sref="main">Home</a></li>
-            <li><a ui-sref="about">About</a></li>
-            <li><a ui-sref="contact">Contact</a></li>
+            <li ui-sref-active="active"><a ui-sref="main">Home</a></li>
+            <li ui-sref-active="active"><a ui-sref="about">About</a></li>
+            <li ui-sref-active="active"><a ui-sref="contact">Contact</a></li>
           </ul>
           <h1 class="text-muted title">Provo Pads</h1>
         </div>
@@ -34,6 +34,11 @@
 
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/angular/angular.js"></script>
+    <!-- Firebase -->
+<script src="https://cdn.firebase.com/js/client/1.0.18/firebase.js"></script>
+<!-- AngularFire -->
+<script src="https://cdn.firebase.com/libs/angularfire/0.8.0/angularfire.min.js"></script>
+
     <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
     <script src="bower_components/json3/lib/json3.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>

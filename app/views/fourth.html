@@ -1,8 +1,7 @@
 
   <div class="jumbotron center-block main prices">
     <h1 class="main">How close to BYU do you want to be?</h1>
-    <p><input type="text" placeholder="min"/>   miles</p>
-    <p><input type="text" placeholder="max"/>   miles</p>
-    <p><a class="btn btn-default btn-lg" role="button" ui-sref="fifth">Next</a></p>
+    <p><a class="btn btn-default btn-lg" role="button" value="walking" ui-sref="fifth" ng-click="saveAnswer('distance', walking)">Walking Distance (less than 5 miles)</a></p>
+    <p><a class="btn btn-default btn-lg" role="button" value="driving" ui-sref="fifth" ng-click="saveAnswer('distance', driving)">Driving Distance (more than 5 miles)</a></p>
 
   </div>
