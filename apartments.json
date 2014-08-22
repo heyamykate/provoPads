@@ -1,0 +1,718 @@
+[
+  {
+    "name": "Liberty Square",
+    "room": "shared",
+    "gender": "both",
+    "price": 233,
+    "distance": "walking",
+    "pool": true,
+    "address": "556 N 400 E",
+    "phone number": "801-374-7900",
+    "website": "www.chooseliberty.com"
+  },
+  {
+    "name": "Centennial Apartments",
+    "room": "shared",
+    "gender": "both",
+    "price": 194,
+    "distance": "walking",
+    "pool": true,
+    "address": "380 N 1020 E",
+    "phone number": "801-374-1700",
+    "website": "www.centennialapts.com"
+  },
+  {
+    "name": "Alpine Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool": "",
+    "address":"876 E 900 N",
+    "phone number": "801-377-1666"
+  },
+  {
+    "name": "Alpine Village",
+    "room": "private",
+    "gender": "both",
+    "price": "",
+    "distance": "",
+    "pool": true,
+    "address": "1378 N Freedom Blvd",
+    "phone number": "801-623-6093",
+    "website": "www.myalpinevillage.com"
+  },
+  {
+    "name": "Applewood Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool": "",
+    "address": "535 N 400 E",
+    "phone number": "801-369-2890"
+  },
+  {
+    "name": "Arcadia Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool": "",
+    "address":"450 N 400 E",
+    "phone number": "801-377-2237",
+    "website": "www.arcadiaapts.com"
+  },
+  {
+    "name": "Autumn Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Bainbridge Square",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Bay Terrace",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Becky May",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Belmont Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Belmont Condos",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Ben-Dick Arms Condos",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Berkshire Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Bountiful Court",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Branbury",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Brigham's Court",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Brittany Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Brookview Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Campus Villa",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Canyon Terrace",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Capitol",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Carriage Cove Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Casa Dea Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Centennial II Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Chathamtowne",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Cinnamon Tree Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "College Park",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Colonial",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Colony",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Connection Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Continental Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Cornerstone Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Cottages",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Crestwood",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Devere Court",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Elms Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Fleur-de-Lis Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Foxwood Condos",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Granary",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Green Gables",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Heritage Court",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Horman Duplex",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "House",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Isles",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Jarman Duplex",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Kensington Condo",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "King Henry Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "La Grande Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Linford Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Lion House",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Lodges at Glenwood",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "London Manor",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Lookout House",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Manavu Condos",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Miller Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Monaco Court Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Monticello Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Moon Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Nelson Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Norma's Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Old Mill Condos",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Omni Condos",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Park Place",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Park Plaza Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Pioneer",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "The Riviera",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Roman Gardens",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Santa Barbara Villa",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Schank Home",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Single Tree Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Skidmore Home",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Skyview Terrace Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "South Downs Condo",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Southridge",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Sparks II Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Spyglass",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Stadium Terrace",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Summerhays",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "University Avenue Condos",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "University Park",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "University Villa Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Village at South Campus",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "White House",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Windsor Park",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Woodland Heights Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+  {
+    "name": "Alpine Apartments",
+    "room": "",
+    "gender": "",
+    "price": "",
+    "distance": "",
+    "pool":
+  },
+
+
+
+
+]

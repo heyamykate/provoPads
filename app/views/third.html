@@ -1,8 +1,5 @@
   <div class="jumbotron center-block main prices">
     <h1 class="main">What's your price range per month?</h1>
-    <p><a class="btn btn-default btn-lg" role="button" value="cheap" ui-sref="fourth" ng-click="saveAnswer('price', cheap)">Under $150</a></p>
-    <p><a class="btn btn-default btn-lg" role="button" value="midRange" ui-sref="fourth" ng-click="saveAnswer('price', midRange)">Under $250</a></p>
-    <p><a class="btn btn-default btn-lg" role="button" value="upperMid" ui-sref="fourth" ng-click="saveAnswer('price', upperMid)">Under $250</a></p>
-    <p><a class="btn btn-default btn-lg" role="button" value="upperRange" ui-sref="fourth" ng-click="saveAnswer('price', upper)">Under $350</a></p>
-    <p><a class="btn btn-default btn-lg" role="button" value="highRange" ui-sref="fourth" ng-click="saveAnswer('price', high)">Under $450</a></p>
+    <p>$ {{maxRent}} <input type="range" min="100" max="500" placeholder="Max Rent" ng-model="maxRent"/> per month.</p>
+    <p><a class="btn btn-default btn-lg" role="button" ui-sref="fourth" ng-click="saveAnswer('price', maxRent)">Next</a></p>
   </div>
