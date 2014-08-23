@@ -69,7 +69,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"261 S 300 E",
+    "phone number":"801-374-5418",
+    "website":"www.apartmentsbythey.com"
   },
   {
     "name": "Bainbridge Square",
@@ -77,7 +80,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"584 N 300 E",
+    "phone number":"801-224-4846",
+    "website":"www.mvmrentals.com"
   },
   {
     "name": "Bay Terrace",
@@ -85,7 +91,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"139 E 400 N",
+    "phone number":"801-900-5236",
+    "website":"www.redstoneresidential.com"
   },
   {
     "name": "Becky May",
@@ -93,7 +102,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"856 E 300 S",
+    "phone number":"801-374-5418",
+    "website":"www.apartmentsbythey.com"
   },
   {
     "name": "Belmont Apartments",
@@ -101,15 +113,21 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"195 E 600 N",
+    "phone number":"801-375-6212",
+    "website":"www.belmontapts.net"
   },
   {
     "name": "Belmont Condos",
-    "room": "",
-    "gender": "",
+    "room": "private",
+    "gender": "both",
     "price": "",
-    "distance": "",
-    "pool":
+    "distance": "driving",
+    "pool": true,
+    "address":"450 N Seven Peaks Blvd",
+    "phone number":"801-224-4846",
+    "website":"www.mvmrentals.com, www.happyvalleycondos.com"
   },
   {
     "name": "Ben-Dick Arms Condos",
@@ -117,7 +135,9 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"141 E 700 N",
+    "phone number":"801-836-2353"
   },
   {
     "name": "Berkshire Apartments",
@@ -125,7 +145,9 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"41 E 400 N",
+    "phone number":"891-369-2890"
   },
   {
     "name": "Bountiful Court",
@@ -133,15 +155,21 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"185 E 300 N",
+    "phone number":"891-374-5533",
+    "website":"www.bcprovo.com"
   },
   {
     "name": "The Branbury",
     "room": "",
-    "gender": "",
+    "gender": "both",
     "price": "",
-    "distance": "",
-    "pool":
+    "distance": "driving",
+    "pool": true,
+    "address":"449 W 1720 N",
+    "phone number":"866-294-6711",
+    "website":"www.thebranbury.com"
   },
   {
     "name": "Brigham's Court",
@@ -149,7 +177,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"401 N 900 E",
+    "phone number":"801-375-7870",
+    "website":"www.apartmentsbythey.com"
   },
   {
     "name": "The Brittany Apartments",
@@ -157,7 +188,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"243 E 500 N",
+    "phone number":"891-374-9788",
+    "website":"www.brittanyapts.net"
   },
   {
     "name": "Brookview Apartments",
@@ -165,7 +199,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"442 N 400 E",
+    "phone number":"801-900-5236",
+    "website":"www.provobrookview.com"
   },
   {
     "name": "Campus Villa",
@@ -173,7 +210,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"182 W 960 N",
+    "phone number":"801-434-8840",
+    "website":"www.lreutah.com"
   },
   {
     "name": "Canyon Terrace",
@@ -181,7 +221,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"1305 N Canyon Rd",
+    "phone number":"801-371-6800",
+    "website":"www.apartmentsbythey.com"
   },
   {
     "name": "The Capitol",
@@ -189,7 +232,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"35 E 800 N",
+    "phone number":"801-494-9860",
+    "website":"www.eliteestates4u.com"
   },
   {
     "name": "Carriage Cove Apartments",
@@ -197,7 +243,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"606 W 1720 N",
+    "phone number":"801-374-2700",
+    "website":"www.carriagecove.com"
   },
   {
     "name": "Casa Dea Apartments",
@@ -205,7 +254,9 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"660 N 200 E",
+    "phone number":"801-369-2890"
   },
   {
     "name": "Centennial II Apartments",
@@ -213,7 +264,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"450 N 1000 E",
+    "phone number":"801-371-6700",
+    "website":"www.centennial2.com"
   },
   {
     "name": "Chathamtowne",
@@ -221,7 +275,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false,
+    "address":"956 N 900 E",
+    "phone number":"801-900-5236",
+    "website":"www.redstoneresidential.com"
   },
   {
     "name": "Cinnamon Tree Apartments",
@@ -229,7 +286,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"1285 N Freedom Blvd",
+    "phone number":"801-373-8023",
+    "website":"www.cinnamontreeapts.com"
   },
   {
     "name": "College Park",
@@ -237,7 +297,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"623 N 100 W",
+    "phone number":"801-375-1171",
+    "website":"www.lreutah.com"
   },
   {
     "name": "The Colonial",
@@ -245,7 +308,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"310 E Center Street",
+    "phone number":"891-494-9860",
+    "website":"www.eliteestates4u.com"
   },
   {
     "name": "The Colony",
@@ -253,7 +319,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"401 N 750 E",
+    "phone number":"801-374-5446",
+    "website":"www.thecolony-apts.com"
   },
   {
     "name": "Connection Apartments",
@@ -261,7 +330,9 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"776 N 600 E",
+    "phone number":"801-836-2353"
   },
   {
     "name": "Continental Apartments",
@@ -269,7 +340,10 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":"",
+    "address":"562 N 200 E",
+    "phone number":"801-374-5418",
+    "website":"www.apartmentsbythey.com"
   },
   {
     "name": "Cornerstone Apartments",
