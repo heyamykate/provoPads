@@ -20,11 +20,6 @@ angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
       url: '/contact',
       templateUrl: 'views/contact.html',
     })
-    // .state('first', {
-    //   url: '/first',
-    //   templateUrl: 'views/first.html',
-    //   controller: 'MainCtrl'
-    // })
     .state('gender', {
       url: '/gender',
       templateUrl: 'views/gender.html',
@@ -40,11 +35,6 @@ angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
       templateUrl: 'views/third.html',
       controller: 'MainCtrl'
     })
-    // .state('thirdmarried', {
-    //   url: '/thirdmarried',
-    //   templateUrl: 'views/thirdmarried.html',
-    //   controller: 'MainCtrl'
-    // })
     .state('fourth', {
       url: '/fourth',
       templateUrl: 'views/fourth.html',

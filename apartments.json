@@ -22,16 +22,6 @@
     "website": "www.centennialapts.com"
   },
   {
-    "name": "Alpine Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": "",
-    "address":"876 E 900 N",
-    "phone number": "801-377-1666"
-  },
-  {
     "name": "Alpine Village",
     "room": "private",
     "gender": "both",
@@ -48,7 +38,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool": "",
+    "pool": false,
     "address": "535 N 400 E",
     "phone number": "801-369-2890"
   },
@@ -58,7 +48,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool": "",
+    "pool": false,
     "address":"450 N 400 E",
     "phone number": "801-377-2237",
     "website": "www.arcadiaapts.com"
@@ -69,7 +59,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"261 S 300 E",
     "phone number":"801-374-5418",
     "website":"www.apartmentsbythey.com"
@@ -80,7 +70,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"584 N 300 E",
     "phone number":"801-224-4846",
     "website":"www.mvmrentals.com"
@@ -91,7 +81,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"139 E 400 N",
     "phone number":"801-900-5236",
     "website":"www.redstoneresidential.com"
@@ -102,7 +92,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"856 E 300 S",
     "phone number":"801-374-5418",
     "website":"www.apartmentsbythey.com"
@@ -135,7 +125,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"141 E 700 N",
     "phone number":"801-836-2353"
   },
@@ -155,7 +145,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"185 E 300 N",
     "phone number":"891-374-5533",
     "website":"www.bcprovo.com"
@@ -177,7 +167,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"401 N 900 E",
     "phone number":"801-375-7870",
     "website":"www.apartmentsbythey.com"
@@ -188,7 +178,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"243 E 500 N",
     "phone number":"891-374-9788",
     "website":"www.brittanyapts.net"
@@ -199,7 +189,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"442 N 400 E",
     "phone number":"801-900-5236",
     "website":"www.provobrookview.com"
@@ -210,7 +200,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"182 W 960 N",
     "phone number":"801-434-8840",
     "website":"www.lreutah.com"
@@ -221,7 +211,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"1305 N Canyon Rd",
     "phone number":"801-371-6800",
     "website":"www.apartmentsbythey.com"
@@ -232,7 +222,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"35 E 800 N",
     "phone number":"801-494-9860",
     "website":"www.eliteestates4u.com"
@@ -243,7 +233,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"606 W 1720 N",
     "phone number":"801-374-2700",
     "website":"www.carriagecove.com"
@@ -254,7 +244,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"660 N 200 E",
     "phone number":"801-369-2890"
   },
@@ -286,7 +276,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"1285 N Freedom Blvd",
     "phone number":"801-373-8023",
     "website":"www.cinnamontreeapts.com"
@@ -297,7 +287,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"623 N 100 W",
     "phone number":"801-375-1171",
     "website":"www.lreutah.com"
@@ -308,7 +298,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"310 E Center Street",
     "phone number":"891-494-9860",
     "website":"www.eliteestates4u.com"
@@ -319,7 +309,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"401 N 750 E",
     "phone number":"801-374-5446",
     "website":"www.thecolony-apts.com"
@@ -330,7 +320,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"776 N 600 E",
     "phone number":"801-836-2353"
   },
@@ -340,7 +330,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":"",
+    "pool":false,
     "address":"562 N 200 E",
     "phone number":"801-374-5418",
     "website":"www.apartmentsbythey.com"
@@ -351,7 +341,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "The Cottages",
@@ -359,7 +349,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "The Crestwood",
@@ -367,7 +357,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool":true
   },
   {
     "name": "Devere Court",
@@ -375,7 +365,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "The Elms Apartments",
@@ -383,7 +373,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "Fleur-de-Lis Apartments",
@@ -391,7 +381,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "Foxwood Condos",
@@ -399,7 +389,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "The Granary",
@@ -407,7 +397,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "Green Gables",
@@ -415,7 +405,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "Heritage Court",
@@ -423,7 +413,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "Horman Duplex",
@@ -431,7 +421,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "House",
@@ -439,7 +429,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "The Isles",
@@ -447,7 +437,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": true
   },
   {
     "name": "Jarman Duplex",
@@ -455,7 +445,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "Kensington Condo",
@@ -463,15 +453,15 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "King Henry Apartments",
-    "room": "",
-    "gender": "",
+    "room": "both",
+    "gender": "both",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": true
   },
   {
     "name": "La Grande Apartments",
@@ -479,7 +469,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "Linford Apartments",
@@ -487,7 +477,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "The Lion House",
@@ -495,7 +485,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": false
   },
   {
     "name": "The Lodges at Glenwood",
@@ -503,7 +493,7 @@
     "gender": "",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": true
   },
   {
     "name": "London Manor",
@@ -748,10 +738,10 @@
   {
     "name": "Village at South Campus",
     "room": "",
-    "gender": "",
+    "gender": "both",
     "price": "",
     "distance": "",
-    "pool":
+    "pool": true
   },
   {
     "name": "White House",
@@ -776,15 +766,7 @@
     "price": "",
     "distance": "",
     "pool":
-  },
-  {
-    "name": "Alpine Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
+  }
 
 
 
