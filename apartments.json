@@ -59,7 +59,6 @@
     "phone number":"801-224-4846",
     "website":"www.mvmrentals.com"
   },
-
   {
     "name": "Belmont Apartments",
     "room": "shared",
@@ -100,7 +99,6 @@
     "phone number":"866-294-6711",
     "website":"www.thebranbury.com"
   },
-
   {
     "name": "The Brittany Apartments",
     "room": "shared",
@@ -208,7 +206,7 @@
     "price": 415,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.thecottagesprovo.com"
+    "website":"www.thecottagesprovo.com"
   },
   {
     "name": "The Crestwood",
@@ -217,7 +215,7 @@
     "price": 330,
     "distance": "driving",
     "pool":true,
-    "website":"http://www.crestwoodapts.com/"
+    "website":"www.crestwoodapts.com/"
   },
   {
     "name": "The Elms Apartments",
@@ -226,7 +224,7 @@
     "price": 280,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.elmsapartments.com/"
+    "website":"www.elmsapartments.com/"
   },
   {
     "name": "Fleur-de-Lis Apartments",
@@ -235,7 +233,7 @@
     "price": 365,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.womenshousing.com/"
+    "website":"www.womenshousing.com/"
   },
   {
     "name": "Green Gables",
@@ -244,11 +242,8 @@
     "price": 345,
     "distance": "walking",
     "pool": false,
-    "website":"http://eliteestates4u.com/Green_Gables.php"
+    "website":"www.eliteestates4u.com/Green_Gables.php"
   },
-
-
-
   {
     "name": "The Isles",
     "room": "both",
@@ -258,7 +253,6 @@
     "pool": true,
     "website":"www.redstoneresidential.com"
   },
-
   {
     "name": "Kensington Condos",
     "room": "shared",
@@ -266,7 +260,7 @@
     "price": 330,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.aspenridgemanagement.com/Apartments/module/property_info/property[id]/3560/"
+    "website":"www.aspenridgemanagement.com/"
   },
   {
     "name": "King Henry Apartments",
@@ -275,10 +269,8 @@
     "price": 300,
     "distance": "driving",
     "pool": true,
-    "website":"http://www.kinghenryapts.com/"
+    "website":"www.kinghenryapts.com/"
   },
-
-
   {
     "name": "The Lion House",
     "room": "both",
@@ -286,7 +278,7 @@
     "price": 365,
     "distance": "walking",
     "pool": false,
-    "website":"http://eliteestates4u.com/Lion_House_2.php"
+    "website":"www.eliteestates4u.com/Lion_House_2.php"
   },
   {
     "name": "The Lodges at Glenwood",
@@ -295,7 +287,7 @@
     "price": 265,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.glenwoodapt.net/"
+    "website":"www.glenwoodapt.net/"
   },
   {
     "name": "London Manor",
@@ -304,10 +296,8 @@
     "price": 355,
     "distance": "walking",
     "pool": false,
-    "website":"http://eliteestates4u.com/Lion_house_CR64.php"
+    "website":"www.eliteestates4u.com/Lion_house_CR64.php"
   },
-
-
   {
     "name": "Miller Apartments",
     "room": "shared",
@@ -315,10 +305,8 @@
     "price": 250,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.apartmentsbythey.com/millerstudenthou.php"
+    "website":"www.apartmentsbythey.com/millerstudenthou.php"
   },
-
-
   {
     "name": "Moon Apartments",
     "room": "shared",
@@ -326,9 +314,8 @@
     "price": 239,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.moonapts.com/"
+    "website":"www.moonapts.com/"
   },
-
   {
     "name": "Old Mill Condos",
     "room": "private",
@@ -336,7 +323,7 @@
     "price": 300,
     "distance": "driving",
     "pool": true,
-    "website":"http://oldmillprovo.com/"
+    "website":"www.oldmillprovo.com/"
   },
   {
     "name": "Omni Condos",
@@ -363,9 +350,8 @@
     "price": 255,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.provoparkplaza.com/"
+    "website":"www.provoparkplaza.com/"
   },
-
   {
     "name": "The Riviera",
     "room": "shared",
@@ -373,7 +359,7 @@
     "price": 250,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.livetheriv.com/"
+    "website":"www.livetheriv.com/"
   },
   {
     "name": "Roman Gardens",
@@ -391,9 +377,8 @@
     "price": 320,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.aspenridgemanagement.com/Apartments/module/property_info/property%5Bid%5D/25912/"
+    "website":"www.aspenridgemanagement.com/"
   },
-
   {
     "name":"The 245 House",
     "room": "private",
@@ -401,7 +386,7 @@
     "price": 325,
     "distance": "walking",
     "pool":false,
-    "website":"http://www.schankproperties.com/245-house.html"
+    "website":"www.schankproperties.com/245-house.html"
   },
   {
     "name":"The 528 House",
@@ -410,7 +395,7 @@
     "price": 300,
     "distance": "walking",
     "pool":false,
-    "website":"http://www.schankproperties.com/528-house.html"
+    "website":"www.schankproperties.com/528-house.html"
   },
   {
     "name":"The 329 House",
@@ -419,7 +404,7 @@
     "price": 300,
     "distance": "walking",
     "pool":false,
-    "website":"http://www.schankproperties.com/329-house.html"
+    "website":"www.schankproperties.com/329-house.html"
   },
   {
     "name": "Lookout House",
@@ -428,7 +413,7 @@
     "price": 285,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.schankproperties.com/lookout-house.html"
+    "website":"www.schankproperties.com/lookout-house.html"
   },
   {
     "name":"Skyview Terrace",
@@ -437,10 +422,9 @@
     "price": 305,
     "distance": "walking",
     "pool": false,
-    "website": "http://www.schankproperties.com/skyview-terrace.html"
+    "website": "www.schankproperties.com/skyview-terrace.html"
 
-  }
-
+  },
   {
     "name": "South Downs Condos",
     "room": "both",
@@ -448,7 +432,7 @@
     "price": 350,
     "distance": "walking",
     "pool": false,
-    "website":"http://provohousingguide.com/south-downs/"
+    "website":"www.provohousingguide.com/south-downs/"
   },
   {
     "name": "Southridge",
@@ -466,7 +450,7 @@
     "price": 250,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.sparksapts.com/"
+    "website":"www.sparksapts.com/"
   },
   {
     "name": "Spyglas",
@@ -475,7 +459,7 @@
     "price": 370,
     "distance": "walking",
     "pool":false,
-    "website":"http://spyglascourt.com/housing-in-provo-utah/"
+    "website":"www.spyglascourt.com/housing-in-provo-utah/"
   },
   {
     "name": "Stadium Terrace",
@@ -484,7 +468,7 @@
     "price": 320,
     "distance": "walking",
     "pool": true,
-    "website":"https://www.stprovo.com/"
+    "website":"www.stprovo.com/"
   },
   {
     "name": "University Avenue Condos",
@@ -493,7 +477,7 @@
     "price": 350,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.aspenridgemanagement.com/Apartments/module/property_info/property%5Bid%5D/25871/"
+    "website":"www.aspenridgemanagement.com/"
   },
   {
     "name": "University Park",
@@ -502,7 +486,7 @@
     "price": 260,
     "distance": "walking",
     "pool": false,
-    "website":"http://www.livehere.biz/"
+    "website":"www.livehere.biz/"
   },
   {
     "name": "University Villa Apartments",
@@ -511,7 +495,7 @@
     "price": 230,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.universityvillaapt.com/"
+    "website":"www.universityvillaapt.com/"
   },
   {
     "name": "Village at South Campus",
@@ -520,7 +504,7 @@
     "price": 385,
     "distance": "walking",
     "pool": true,
-    "website":"http://www.thevillageatsouthcampus.com/"
+    "website":"www.thevillageatsouthcampus.com/"
   },
   {
     "name": "White House",
@@ -529,7 +513,7 @@
     "price": 355,
     "distance": "walking",
     "pool": false,
-    "website":"http://eliteestates4u.com/Lion_house.php"
+    "website":"www.eliteestates4u.com/Lion_house.php"
   },
   {
     "name": "Windsor Park",
@@ -547,7 +531,7 @@
     "price": 399,
     "distance": "walking",
     "pool":false,
-    "website":"http://www.liveatwoodlandheights.com/"
+    "website":"www.liveatwoodlandheights.com/"
   }
 
 
