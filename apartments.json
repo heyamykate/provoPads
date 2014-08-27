@@ -181,16 +181,7 @@
     "phone number":"801-373-8023",
     "website":"www.cinnamontreeapts.com"
   },
-  {
-    "name": "College Park",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":false,
-    "phone number":"801-375-1171",
-    "website":"www.lreutah.com"
-  },
+
   {
     "name": "The Colony",
     "room": "both",
@@ -248,36 +239,16 @@
   },
   {
     "name": "Green Gables",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
+    "room": "shared",
+    "gender": "gals",
+    "price": 345,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://eliteestates4u.com/Green_Gables.php"
   },
-  {
-    "name": "Heritage Court",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
-  },
-  {
-    "name": "Horman Duplex",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
-  },
-  {
-    "name": "House",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
-  },
+
+
+
   {
     "name": "The Isles",
     "room": "both",
@@ -287,141 +258,85 @@
     "pool": true,
     "website":"www.redstoneresidential.com"
   },
+
   {
-    "name": "Jarman Duplex",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
-  },
-  {
-    "name": "Kensington Condo",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
+    "name": "Kensington Condos",
+    "room": "shared",
+    "gender": "both",
+    "price": 330,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://www.aspenridgemanagement.com/Apartments/module/property_info/property[id]/3560/"
   },
   {
     "name": "King Henry Apartments",
     "room": "both",
     "gender": "both",
-    "price": "",
-    "distance": "",
-    "pool": true
+    "price": 300,
+    "distance": "driving",
+    "pool": true,
+    "website":"http://www.kinghenryapts.com/"
   },
-  {
-    "name": "La Grande Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
-  },
-  {
-    "name": "Linford Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
-  },
+
+
   {
     "name": "The Lion House",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": false
+    "room": "both",
+    "gender": "gals",
+    "price": 365,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://eliteestates4u.com/Lion_House_2.php"
   },
   {
     "name": "The Lodges at Glenwood",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool": true
+    "room": "shared",
+    "gender": "both",
+    "price": 265,
+    "distance": "walking",
+    "pool": true,
+    "website":"http://www.glenwoodapt.net/"
   },
   {
     "name": "London Manor",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "both",
+    "gender": "gals",
+    "price": 355,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://eliteestates4u.com/Lion_house_CR64.php"
   },
-  {
-    "name": "Lookout House",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
-  {
-    "name": "Manavu Condos",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
+
+
   {
     "name": "Miller Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "both",
+    "price": 250,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://www.apartmentsbythey.com/millerstudenthou.php"
   },
-  {
-    "name": "Monaco Court Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
-  {
-    "name": "Monticello Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
+
+
   {
     "name": "Moon Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "both",
+    "price": 239,
+    "distance": "walking",
+    "pool": true,
+    "website":"http://www.moonapts.com/"
   },
-  {
-    "name": "Nelson Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
-  {
-    "name": "Norma's Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
+
   {
     "name": "Old Mill Condos",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "private",
+    "gender": "both",
+    "price": 300,
+    "distance": "driving",
+    "pool": true,
+    "website":"http://oldmillprovo.com/"
   },
   {
     "name": "Omni Condos",
@@ -443,27 +358,22 @@
   },
   {
     "name": "Park Plaza Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "both",
+    "price": 255,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://www.provoparkplaza.com/"
   },
-  {
-    "name": "Pioneer",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
+
   {
     "name": "The Riviera",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "both",
+    "price": 250,
+    "distance": "walking",
+    "pool": true,
+    "website":"http://www.livetheriv.com/"
   },
   {
     "name": "Roman Gardens",
@@ -476,51 +386,69 @@
   },
   {
     "name": "Santa Barbara Villa",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "gals",
+    "price": 320,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://www.aspenridgemanagement.com/Apartments/module/property_info/property%5Bid%5D/25912/"
+  },
+
+  {
+    "name":"The 245 House",
+    "room": "private",
+    "gender":"guys",
+    "price": 325,
+    "distance": "walking",
+    "pool":false,
+    "website":"http://www.schankproperties.com/245-house.html"
   },
   {
-    "name": "Schank Home",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "name":"The 528 House",
+    "room": "both",
+    "gender":"guys",
+    "price": 300,
+    "distance": "walking",
+    "pool":false,
+    "website":"http://www.schankproperties.com/528-house.html"
   },
   {
-    "name": "Single Tree Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "name":"The 329 House",
+    "room": "both",
+    "gender":"guys",
+    "price": 300,
+    "distance": "walking",
+    "pool":false,
+    "website":"http://www.schankproperties.com/329-house.html"
   },
   {
-    "name": "Skidmore Home",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "name": "Lookout House",
+    "room": "both",
+    "gender": "gals",
+    "price": 285,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://www.schankproperties.com/lookout-house.html"
   },
   {
-    "name": "Skyview Terrace Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
+    "name":"Skyview Terrace",
+    "room": "private",
+    "gender": "gals",
+    "price": 305,
+    "distance": "walking",
+    "pool": false,
+    "website": "http://www.schankproperties.com/skyview-terrace.html"
+
+  }
+
   {
-    "name": "South Downs Condo",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "name": "South Downs Condos",
+    "room": "both",
+    "gender": "both",
+    "price": 350,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://provohousingguide.com/south-downs/"
   },
   {
     "name": "Southridge",
@@ -533,59 +461,57 @@
   },
   {
     "name": "Sparks II Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "both",
+    "price": 250,
+    "distance": "walking",
+    "pool": true,
+    "website":"http://www.sparksapts.com/"
   },
   {
-    "name": "Spyglass",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "name": "Spyglas",
+    "room": "private",
+    "gender": "both",
+    "price": 370,
+    "distance": "walking",
+    "pool":false,
+    "website":"http://spyglascourt.com/housing-in-provo-utah/"
   },
   {
     "name": "Stadium Terrace",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
-  },
-  {
-    "name": "Summerhays",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "both",
+    "gender": "both",
+    "price": 320,
+    "distance": "walking",
+    "pool": true,
+    "website":"https://www.stprovo.com/"
   },
   {
     "name": "University Avenue Condos",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "private",
+    "gender": "both",
+    "price": 350,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://www.aspenridgemanagement.com/Apartments/module/property_info/property%5Bid%5D/25871/"
   },
   {
     "name": "University Park",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "guys",
+    "price": 260,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://www.livehere.biz/"
   },
   {
     "name": "University Villa Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "shared",
+    "gender": "both",
+    "price": 230,
+    "distance": "walking",
+    "pool": true,
+    "website":"http://www.universityvillaapt.com/"
   },
   {
     "name": "Village at South Campus",
@@ -598,11 +524,12 @@
   },
   {
     "name": "White House",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "private",
+    "gender": "gals",
+    "price": 355,
+    "distance": "walking",
+    "pool": false,
+    "website":"http://eliteestates4u.com/Lion_house.php"
   },
   {
     "name": "Windsor Park",
@@ -615,11 +542,12 @@
   },
   {
     "name": "Woodland Heights Apartments",
-    "room": "",
-    "gender": "",
-    "price": "",
-    "distance": "",
-    "pool":
+    "room": "private",
+    "gender": "both",
+    "price": 399,
+    "distance": "walking",
+    "pool":false,
+    "website":"http://www.liveatwoodlandheights.com/"
   }
 
 
