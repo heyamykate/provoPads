@@ -29,6 +29,7 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
     $scope.data.users[userId].answers[label] = value;
   };
 
+
   $scope.checkForMatch = function(answers, apartments) {
     var apartments = $scope.data.apartments;
     console.log(apartments);
@@ -40,25 +41,32 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
 
       if (apartments[i].gender !== answers.gender && apartments[i].gender !== 'both') {
 
-        console.log('not a match');
+        $scope.isMatch = false;
       }
       if (answers.pool && !apartments[i].pool) {
 
         console.log('not a match');
+        $scope.isMatch = false;
       }
       if (apartments[i].room !== answers.room && apartments[i].room !== 'both') {
 
         console.log('not a match');
+        $scope.isMatch = false;
       }
       if (apartments[i].price > answers.price) {
 
         console.log('not a match');
+        $scope.isMatch = false;
       }
       if (answers.distance === 'walking' && apartments[i].distance !== 'walking') {
 
         console.log('not a match');
+        $scope.isMatch = false;
       }
-      console.log('finished the loop');
+      else {
+        $scope.isMatch = true;
+      }
+
     }
 
 

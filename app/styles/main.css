@@ -1,5 +1,16 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
 
+tbody {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+th {
+  font-family: "Lobster Two", cursive;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+}
 .footer {
   margin-top: 20px;
 }
