@@ -1,5 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
 
+.priceRange {
+  max-width: 60%;
+  text-align: center;
+  margin: 0 auto;
+}
 
 .main h3 {
   font-family: 'Lobster two';

@@ -33,28 +33,27 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
   $scope.checkForMatch = function(apartments, answers) {
     var apartments = $scope.data.apartments;
     var answers = $scope.data.users[userId].answers;
-    var isMatch;
+    console.log(answers);
 
       for (var i = 0; i < apartments.length; i++) {
 
-        if (apartments[i].gender !== answers.gender && apartments[i].gender !== 'both') {
-          isMatch = false;
+        var apt = apartments[i];
+        apt.isMatch = true;
+
+        if (apt.gender !== answers.gender && apt.gender !== 'both') {
+          apt.isMatch = false;
         }
-        if (answers.pool && !apartments[i].pool) {
-          isMatch = false;
+        if (answers.pool && !apt.pool) {
+          apt.isMatch = false;
         }
-        if (apartments[i].room !== answers.room && apartments[i].room !== 'both') {
-          isMatch = false;
+        if (apt.room !== answers.room && apt.room !== 'both') {
+          apt.isMatch = false;
         }
-        if (apartments[i].price > answers.price) {
-          isMatch = false;
+        if (apt.price > answers.price) {
+          apt.isMatch = false;
         }
-        if (answers.distance === 'walking' && apartments[i].distance !== 'walking') {
-          isMatch = false;
-        }
-        else {
-          isMatch = true;
-          console.log('match!');
+        if (answers.distance === 'walking' && apt.distance !== 'walking') {
+          apt.isMatch = false;
         }
       }
   };

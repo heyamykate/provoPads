@@ -13,13 +13,13 @@
       <th>Website</th>
     </thead>
     <tbody>
-    <tr ng-repeat="apartment in apartments">
+    <tr ng-repeat="apartment in data.apartments | filter: { isMatch: true }">
       <td>{{apartment.name}}</td>
       <td>{{apartment.gender}}</td>
       <td>{{apartment.room}}</td>
       <td>{{apartment.distance}}</td>
       <td>$ {{apartment.price}}</td>
-      <td><a>{{apartment.website}}</a></td>
+      <td><a href="" target="_blank" ng-href='http://{{apartment.website}}'>{{apartment.website}}</a></td>
     </tr>
   </tbody>
 
