@@ -30,49 +30,33 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
   };
 
 
-  $scope.checkForMatch = function(answers, apartments) {
+  $scope.checkForMatch = function(apartments, answers) {
     var apartments = $scope.data.apartments;
-    console.log(apartments);
-
     var answers = $scope.data.users[userId].answers;
-    console.log(answers);
+    var isMatch;
 
-    for (var i = 0; i < apartments.length; i++) {
+      for (var i = 0; i < apartments.length; i++) {
 
-      if (apartments[i].gender !== answers.gender && apartments[i].gender !== 'both') {
-
-        $scope.isMatch = false;
+        if (apartments[i].gender !== answers.gender && apartments[i].gender !== 'both') {
+          isMatch = false;
+        }
+        if (answers.pool && !apartments[i].pool) {
+          isMatch = false;
+        }
+        if (apartments[i].room !== answers.room && apartments[i].room !== 'both') {
+          isMatch = false;
+        }
+        if (apartments[i].price > answers.price) {
+          isMatch = false;
+        }
+        if (answers.distance === 'walking' && apartments[i].distance !== 'walking') {
+          isMatch = false;
+        }
+        else {
+          isMatch = true;
+          console.log('match!');
+        }
       }
-      if (answers.pool && !apartments[i].pool) {
-
-        console.log('not a match');
-        $scope.isMatch = false;
-      }
-      if (apartments[i].room !== answers.room && apartments[i].room !== 'both') {
-
-        console.log('not a match');
-        $scope.isMatch = false;
-      }
-      if (apartments[i].price > answers.price) {
-
-        console.log('not a match');
-        $scope.isMatch = false;
-      }
-      if (answers.distance === 'walking' && apartments[i].distance !== 'walking') {
-
-        console.log('not a match');
-        $scope.isMatch = false;
-      }
-      else {
-        $scope.isMatch = true;
-      }
-
-    }
-
-
-
-
   };
-
 
 });

@@ -1,5 +1,25 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
 
+
+.main h3 {
+  font-family: 'Lobster two';
+  color: #FFCC00;
+  margin-top: 30px;
+}
+.table > tbody a {
+  color: #666;
+}
+.table-hover > tbody tr:hover {
+  color: black;
+}
+
+.table > tbody tr {
+  color: #fff;
+}
+
+.table > thead th {
+  color: #666;
+}
 tbody {
   font-family: 'Raleway', sans-serif;
   text-align: center;
