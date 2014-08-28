@@ -4,10 +4,9 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
   var ref = new Firebase('https://intense-fire-6764.firebaseio.com');
 
   var sync = $firebase(ref);
-    // download the data into a local object
+
   var syncObject = sync.$asObject();
-  // synchronize the object with a three-way data binding
-  // click on `index.html` above to see it used in the DOM!
+
   syncObject.$bindTo($scope, 'data');
 
   var userId = sessionStorage.userId;
@@ -33,7 +32,6 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
   $scope.checkForMatch = function(apartments, answers) {
     var apartments = $scope.data.apartments;
     var answers = $scope.data.users[userId].answers;
-    console.log(answers);
 
       for (var i = 0; i < apartments.length; i++) {
 

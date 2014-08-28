@@ -159,3 +159,19 @@ div.container {
   padding-bottom: 80px;
   border-radius: 8px;
 }
+
+@media only screen
+and (max-device-width : 990px) {
+  th tr .aptGender {
+    display: none;
+  }
+  th tr .aptRoom {
+    display: none;
+  }
+  th tr .aptPrice {
+    display: none;
+  }
+  th tr .aptDistance {
+    display: none;
+  }
+}
