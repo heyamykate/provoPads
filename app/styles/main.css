@@ -160,18 +160,33 @@ div.container {
   border-radius: 8px;
 }
 
-@media only screen
-and (max-device-width : 990px) {
-  th tr .aptGender {
-    display: none;
-  }
-  th tr .aptRoom {
-    display: none;
-  }
-  th tr .aptPrice {
-    display: none;
-  }
-  th tr .aptDistance {
-    display: none;
-  }
+@media all and (max-width : 1000px) {
+  .aptGender {
+        display:none;
+        width:0;
+        height:0;
+        opacity:0;
+        visibility: collapse;
+      }
+  .aptRoom {
+      display:none;
+      width:0;
+      height:0;
+      opacity:0;
+      visibility: collapse;
+    }
+  .aptPrice {
+      display:none;
+      width:0;
+      height:0;
+      opacity:0;
+      visibility: collapse;
+    }
+  .aptDistance {
+      display:none;
+      width:0;
+      height:0;
+      opacity:0;
+      visibility: collapse;
+    }
 }
