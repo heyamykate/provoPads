@@ -193,4 +193,9 @@ div.container {
       opacity:0;
       visibility: collapse;
     }
+  .distance {
+    max-width: 100%;
+    padding: 5px;
+    font-size: 14px;
+  }
 }
