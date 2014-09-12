@@ -15,6 +15,7 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
     sessionStorage.userId = userId;
   }
 
+
   $scope.saveAnswer = function(label, value) {
     if(!$scope.data.users) {
       $scope.data.users = {};
@@ -55,5 +56,7 @@ angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $fireb
         }
       }
   };
+
+
 
 });

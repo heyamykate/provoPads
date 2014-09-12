@@ -1,5 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
 
+h3.main {
+  font-family: 'Lobster Two', cursive;
+  color: #fff;
+  text-align: center;
+}
+
+option {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+select.form-control {
+  text-align: center;
+  width: 40%;
+  margin-bottom: 20px;
+}
+
 a.moi {
   text-decoration: none;
   color: #fff;
