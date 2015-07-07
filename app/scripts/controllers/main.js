@@ -1,6 +1,7 @@
 'use strict';
 
 angular.module('angularPadsApp').controller('MainCtrl', function ($scope, $firebase) {
+
   var ref = new Firebase('https://intense-fire-6764.firebaseio.com');
 
   var sync = $firebase(ref);

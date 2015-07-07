@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html class="no-js">
   <head>
@@ -8,38 +7,22 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Rokkitt|Oswald' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="styles/main.css">
   </head>
   <body ng-app="angularPadsApp">
       <div class="container">
-        <div class="header">
-          <ul class="nav nav-pills pull-right">
-            <li ui-sref-active="active"><a ui-sref="main">Home</a></li>
-            <li ui-sref-active="active"><a ui-sref="about">About</a></li>
-            <li ui-sref-active="active"><a ui-sref="contact">Contact</a></li>
-          </ul>
-          <h1 class="text-muted title">Provo Pads</h1>
-        </div>
-        <hr />
 
-      <div ui-view></div>
-
-  <div class="footer">
-    <p>Created with <span class="glyphicon glyphicon-heart"></span> by <a class="moi" target="_blank" href="http://www.amykateandrews.com">Amy-Kate</a>
-    <!-- <i class="fa fa-instagram fa-lg"></i>
-    <i class="fa fa-facebook-square fa-lg"></i> -->
-
-  </div>
-</div>
+      <div ui-view class="view-container" autoscroll="false"></div>
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
     <!-- Firebase -->
-<script src="https://cdn.firebase.com/js/client/1.0.18/firebase.js"></script>
-<!-- AngularFire -->
-<script src="https://cdn.firebase.com/libs/angularfire/0.8.0/angularfire.min.js"></script>
+    <script src="https://cdn.firebase.com/js/client/1.0.18/firebase.js"></script>
+    <!-- AngularFire -->
+    <script src="https://cdn.firebase.com/libs/angularfire/0.8.0/angularfire.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.js"></script>
 
@@ -47,8 +30,10 @@
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
-        <script src="scripts/app.js"></script>
-        <script src="scripts/controllers/main.js"></script>
+    <script src="/bower_components/angular-panel-snap/angular-panel-snap.min.js"></script>
+
+    <script src="scripts/app.js"></script>
+    <script src="scripts/controllers/main.js"></script>
 
 </body>
 </html>

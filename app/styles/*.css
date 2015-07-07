@@ -1,12 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
 h3.main {
-  font-family: "Oswald", sans-serif;
+  font-family: "Lobster Two", cursive;
   color: #fff;
   text-align: center;
 }
 
 option {
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
   text-align: center;
 }
 
@@ -28,7 +28,7 @@ a.moi {
 }
 
 .main h3 {
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
   color: #FFCC00;
   margin-top: 30px;
 }
@@ -50,12 +50,12 @@ a.moi {
 }
 
 tbody {
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
   text-align: center;
 }
 
 th {
-  font-family: "Oswald", sans-serif;
+  font-family: "Lobster Two", cursive;
   color: #fff;
   font-size: 18px;
   text-align: center;
@@ -66,7 +66,7 @@ th {
 }
 
 .about > h2 {
-  font-family: "Oswald", sans-serif;
+  font-family: "Lobster Two", cursive;
   color: #fff;
 }
 
@@ -77,7 +77,7 @@ div.jumbotron.about {
 
 div.about {
   text-align: center;
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   background-color: #CCCCCC;
   border-radius: 6px;
@@ -92,7 +92,7 @@ div.about {
 }
 
 label {
-  font-family: "Oswald", sans-serif;
+  font-family: "Lobster Two", cursive;
   color: #fff;
   font-size: 18px;
 }
@@ -100,11 +100,11 @@ label {
 input {
   border-radius: 5px;
   text-align: center;
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
 }
 
 textarea {
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
 }
 
 ::-webkit-input-placeholder {
@@ -134,7 +134,7 @@ textarea {
 }
 
 div.footer > p {
-  font-family: "Oswald", sans-serif;
+  font-family: "Lobster Two", cursive;
   color: #fff;
 }
 
@@ -143,7 +143,7 @@ div.main {
 }
 
 .btn-default {
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
   background-color: #FFCC00;
   color: #fff;
 }
@@ -154,7 +154,7 @@ div.main {
 }
 
 h1.main {
-  font-family: "Oswald", sans-serif;
+  font-family: "Lobster Two", cursive;
   color: #FFCC00;
 }
 
@@ -168,12 +168,18 @@ h1.main {
 
 .nav-pills > li > a {
   color: #fff;
-  font-family: "Rokkitt", serif;
+  font-family: "Raleway", sans-serif;
 }
 
 h1.title {
-  font-family: "Oswald", sans-serif;
+  font-family: "Lobster Two", cursive;
   color: #fff;
+}
+
+div.container {
+  background-color: #C0C0C0;
+  padding-bottom: 80px;
+  border-radius: 8px;
 }
 
 @media all and (max-width: 1000px) {
@@ -216,86 +222,16 @@ h1.title {
   }
 }
 html, body {
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  background: -webkit-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%);
+  background: -webkit-linear-gradient(90deg, #B3FFAB 10%, #12FFF7 90%);
   /* Chrome 10+, Saf5.1+ */
-  background: -moz-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%);
+  background: -moz-linear-gradient(90deg, #B3FFAB 10%, #12FFF7 90%);
   /* FF3.6+ */
-  background: -ms-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%);
+  background: -ms-linear-gradient(90deg, #B3FFAB 10%, #12FFF7 90%);
   /* IE10 */
-  background: -o-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%);
+  background: -o-linear-gradient(90deg, #B3FFAB 10%, #12FFF7 90%);
   /* Opera 11.10+ */
-  background: linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%);
+  background: linear-gradient(90deg, #B3FFAB 10%, #12FFF7 90%);
   /* W3C */
 }
 
-.view-container {
-  width: 100%;
-  height: 100vh;
-}
-
-body {
-  height: 100%;
-}
-body .footer {
-  width: 100%;
-  left: 0;
-  right: 0;
-}
-
-.panel-container {
-  height: 100%;
-  width: 100%;
-}
-.panel-container .ak-panel {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}
-.panel-container .jumbotron {
-  width: 70%;
-  margin: 0 auto;
-  background: rgba(255, 255, 255, 0.34);
-  color: grey;
-  text-align: center;
-  font-family: "Rokkitt", serif;
-}
-.panel-container .jumbotron h1, .panel-container .jumbotron h2, .panel-container .jumbotron h3, .panel-container .jumbotron h4 {
-  letter-spacing: 1px;
-  line-height: 1.5;
-}
-.panel-container .jumbotron .btn {
-  padding: 20px 30px;
-  border: 1px solid #fff;
-  margin-top: 40px;
-  transition: 0.5s all;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-family: "Oswald", sans-serif;
-}
-.panel-container .jumbotron .btn:hover {
-  background: #fff;
-  color: #96FFAC;
-}
-.panel-container span {
-  position: absolute;
-  bottom: 25px;
-  width: 100%;
-  text-align: center;
-  color: #fff;
-  font-family: "Oswald", sans-serif;
-  font-size: 16px;
-  letter-spacing: 2px;
-}
-
-.match-questions .jumbotron h2 {
-  font-family: "Oswald", sans-serif;
-}
-.match-questions .gender .btn, .match-questions .room .btn {
-  margin: 40px 10px;
-}
-
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=*.css.map */

@@ -1,6 +1,6 @@
 'use strict';
 
-var angularPadsApp = angular.module('angularPadsApp', ['ui.router', 'firebase']);
+var angularPadsApp = angular.module('angularPadsApp', ['ui.router', 'firebase', 'akreitals.panel-snap']);
 
 angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
 
@@ -9,9 +9,13 @@ angularPadsApp.config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
     .state('main', {
       url: '/main',
-      templateUrl: 'views/main.html',
+      templateUrl: 'views/new-landing.html',
       controller: 'MainCtrl'
     })
+  .state('questions', {
+      url: '/match-questions',
+      templateUrl: 'views/match-questions.html'
+  })
     .state('about', {
       url: '/about',
       templateUrl: 'views/about.html',

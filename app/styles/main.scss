@@ -1,0 +1,301 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster|Lobster+Two|Raleway);
+
+$headerfont: 'Oswald', sans-serif;
+$bodyfont: 'Rokkitt', serif;
+
+h3.main {
+  font-family: $headerfont;
+  color: #fff;
+  text-align: center;
+}
+
+option {
+  font-family: $bodyfont;
+  text-align: center;
+}
+
+select.form-control {
+  text-align: center;
+  width: 40%;
+  margin-bottom: 20px;
+}
+
+a.moi {
+  text-decoration: none;
+  color: #fff;
+}
+.priceRange {
+  max-width: 60%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.main h3 {
+  font-family: $bodyfont;
+  color: #FFCC00;
+  margin-top: 30px;
+}
+.table > tbody a {
+  color: #666;
+}
+.table-hover > tbody tr:hover {
+  color: black;
+}
+
+.table > tbody tr {
+  color: #fff;
+}
+
+.table > thead th {
+  color: #666;
+}
+tbody {
+  font-family: $bodyfont;
+  text-align: center;
+}
+
+th {
+  font-family: $headerfont;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+}
+.footer {
+  margin-top: 20px;
+}
+
+.about > h2 {
+  font-family: $headerfont;
+  color: #fff;
+}
+
+div.jumbotron.about {
+  text-align: center;
+  background-color: #FFCC00;
+}
+
+div.about {
+  text-align: center;
+  font-family: $bodyfont;
+  font-size: 18px;
+  background-color: #CCCCCC;
+  border-radius: 6px;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+label {
+  font-family: $headerfont;
+  color: #fff;
+  font-size: 18px;
+}
+input {
+  border-radius: 5px;
+  text-align: center;
+  font-family: $bodyfont;
+}
+
+textarea {
+  font-family: $bodyfont;
+}
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;
+}
+
+:-ms-input-placeholder {
+   text-align: center;
+}
+
+#pricerange {
+  margin: 15px;
+}
+
+.fa {
+  color: #fff;
+}
+
+div.footer > p {
+  font-family: $headerfont;
+  color: #fff;
+}
+div.main {
+  text-align: center;
+}
+
+.btn-default {
+  font-family: $bodyfont;
+  background-color: #FFCC00;
+  color: #fff;
+}
+
+.btn-default:hover {
+  background-color: #666666;
+  color: #fff;
+}
+h1.main {
+  font-family: $headerfont;
+  color: #FFCC00;
+}
+
+.nav-pills > li.active > a {
+  background-color: #FFCC00;
+}
+
+.nav-pills > li.active > a:hover {
+  background-color: #FFCC00;
+}
+
+.nav-pills > li > a {
+  color: #fff;
+  font-family: $bodyfont;
+}
+
+h1.title {
+  font-family: $headerfont;
+  color: #fff;
+}
+
+// html {
+//   background-color: #C0C0C0;
+// }
+//
+// body {
+//   background-color: #C0C0C0;
+// }
+
+
+@media all and (max-width : 1000px) {
+  .aptGender {
+        display:none;
+        width:0;
+        height:0;
+        opacity:0;
+        visibility: collapse;
+      }
+  .aptRoom {
+      display:none;
+      width:0;
+      height:0;
+      opacity:0;
+      visibility: collapse;
+    }
+  .aptPrice {
+      display:none;
+      width:0;
+      height:0;
+      opacity:0;
+      visibility: collapse;
+    }
+  .aptDistance {
+      display:none;
+      width:0;
+      height:0;
+      opacity:0;
+      visibility: collapse;
+    }
+  .distance {
+    max-width: 100%;
+    padding: 5px;
+    font-size: 14px;
+  }
+}
+
+html, body {
+
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background: -webkit-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%); /* Chrome 10+, Saf5.1+ */
+    background:    -moz-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%); /* FF3.6+ */
+    background:     -ms-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%); /* IE10 */
+    background:      -o-linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%); /* Opera 11.10+ */
+    background:         linear-gradient(90deg, #AAFFA9 10%, #11FFBD 90%); /* W3C */
+
+}
+
+.view-container {
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    height: 100%;
+    .footer {
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+}
+
+.panel-container {
+    height: 100%;
+    width: 100%;
+    .ak-panel {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .jumbotron {
+        width: 70%;
+        margin: 0 auto;
+        background: rgba(255, 255, 255, 0.34);
+        color: grey;
+        text-align: center;
+        font-family: $bodyfont;
+        h1, h2, h3, h4 {
+            letter-spacing: 1px;
+            line-height: 1.5;
+        }
+        .btn {
+            padding: 20px 30px;
+            border: 1px solid #fff;
+            margin-top: 40px;
+            transition: 0.5s all;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-family: $headerfont;
+            &:hover {
+                background: #fff;
+                color: #96FFAC;
+            }
+        }
+    }
+    span {
+        position: absolute;
+        bottom: 25px;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-family: $headerfont;
+        font-size: 16px;
+        letter-spacing: 2px;
+    }
+}
+.match-questions {
+    .jumbotron {
+        h2 {
+            font-family: $headerfont;
+        }
+    }
+    .gender, .room {
+        .btn {
+            margin: 40px 10px;
+        }
+    }
+}
